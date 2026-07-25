@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tab5a</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="featured">Featured</string>
+    <string name="category">Category</string>
+    <string name="popular_meals">Popular Meals</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="most_searched">Most Searched</string>
+    <string name="later">Later</string>
+    <string name="greeting_message">Help your path to health goals with happiness</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="favorites">Favorites</string>
+    <string name="account">Account</string>
+    <string name="logout">LogOut</string>
+    <string name="login_instruction">"Enter your email and password to log in "</string>
+    <string name="or">Or</string>
+    <string name="google">Continue With Google</string>
+    <string name="facebook">Continue With Facebook</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_instruction">Create an account to continue!</string>
+    <string name="alraedy_have_account">Already have an account?</string>
+</resources>

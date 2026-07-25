@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tab5a</string>
+    <string name="good_morning">صباح الخير</string>
+    <string name="good_afternoon">مساء الخير</string>
+    <string name="good_evening">مساء الخير</string>
+    <string name="featured">اخترنالك</string>
+    <string name="category">التصنيفات</string>
+    <string name="popular_meals">أشهر الوصفات</string>
+    <string name="search">البحث</string>
+    <string name="search_hint">ناوية تطبخي إيه؟</string>
+    <string name="most_searched">الأكثر بحثا</string>
+    <string name="later">بعدين</string>
+    <string name="greeting_message">"جمعناك أهم وصفات نادية السيد في مكان واحد "</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="create_new_account">إنشاء حساب جديد</string>
+    <string name="favorites">Favorites</string>
+    <string name="account">Account</string>
+</resources>
